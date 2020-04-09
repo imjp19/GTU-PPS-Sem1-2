@@ -1,4 +1,4 @@
-# GTU-PPS-Sem1
+## GTU-PPS-Sem1
 In this repo i have to done all experiment of subject PPS of sem-1 GTU.
 
 # List of Experiments.
@@ -13,4 +13,5 @@ subtraction).
 7. Write a C program to find out distance travelled by the equation d = ut + (at^2)/2
 8. Write a C program to find that the accepted number is Negative, or Positive or Zero.
 9. Write a program to read marks of a student from keyboard whether the student is pass or fail(using if else)
+10. Write a program to read three numbers from keyboard and find out maximum out of these three. (nested if else)
 
