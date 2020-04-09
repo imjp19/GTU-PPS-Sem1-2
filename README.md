@@ -1,7 +1,7 @@
-## GTU-PPS-Sem1
+# GTU-PPS-Sem1
 In this repo i have to done all experiment of subject PPS of sem-1 GTU.
 
-# List of Experiments.
+## List of Experiments.
 
 1. Write a program to that performs as calculator ( addition, multiplication, division,
 subtraction).
