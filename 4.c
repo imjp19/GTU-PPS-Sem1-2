@@ -26,7 +26,7 @@ num2=num1-t;
 
 printf("\n-------------------------------------------------\n");
 printf("After interchange 1st number is : %d",num1);
-printf("\nAfter interchange 2st number is : %d",num2);
+printf("\nAfter interchange 2nd number is : %d",num2);
 
 printf("\n-------------------------------------------------\n");
 }
