@@ -14,4 +14,5 @@ subtraction).
 8. Write a C program to find that the accepted number is Negative, or Positive or Zero.
 9. Write a program to read marks of a student from keyboard whether the student is pass or fail(using if else)
 10. Write a program to read three numbers from keyboard and find out maximum out of these three. (nested if else)
+11. Write a C program to check whether the entered character is capital, small letter, digit or any special character.
 
