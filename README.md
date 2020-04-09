@@ -12,4 +12,5 @@ subtraction).
 5. Write a C program to enter a distance in to kilometre and convert it in to meter, feet, inches
 and centimetre 
 6. Write a program to compute Fahrenheit from centigrade (f=1.8*c +32)
+7. Write a C program to find out distance travelled by the equation d = ut + (at^2)/2
 
