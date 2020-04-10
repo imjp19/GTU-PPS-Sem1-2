@@ -31,3 +31,5 @@ Pf = 12.50% of basic, Gross = basic + Da + Hra + Ma, Nt = Gross – Pf.
 18. Write a program to reverse a number.
 19. Write a program to generate first n number of Fibonacci series.
 20. Write a program to find out sum of first and last digit of a given number.
+21. Write a C program to find the sum and average of different numbers which are accepted by user as many as user wants.
+
