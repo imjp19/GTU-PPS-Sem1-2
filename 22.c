@@ -7,7 +7,7 @@ int student=0,sum=0,marks=0,sub;
 
 
 printf("---------------------------------------------------------------------------------\n");
-printf("\tPPS-20-  calculate average and total of 5 students for 3 subjects \n\t(use nested for loops)\n");
+printf("\tPPS-22-  calculate average and total of 5 students for 3 subjects \n\t(use nested for loops)\n");
 printf("---------------------------------------------------------------------------------\n");
 
 for(student=0;student<5;student++)
