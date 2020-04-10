@@ -29,4 +29,5 @@ Pf = 12.50% of basic, Gross = basic + Da + Hra + Ma, Nt = Gross – Pf.
 16. Write a C program to input an integer number and check the last digit of number is even or odd.
 17. Write a C program to find factorial of a given number.
 18. Write a program to reverse a number.
-19. Write a program to generate first n number of Fibonacci series
+19. Write a program to generate first n number of Fibonacci series.
+20. Write a program to find out sum of first and last digit of a given number.
