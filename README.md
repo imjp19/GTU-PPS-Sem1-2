@@ -15,4 +15,10 @@ subtraction).
 9. Write a program to read marks of a student from keyboard whether the student is pass or fail(using if else)
 10. Write a program to read three numbers from keyboard and find out maximum out of these three. (nested if else)
 11. Write a C program to check whether the entered character is capital, small letter, digit or any special character.
+12. Write a program to read marks from keyboard and your program should display equivalent grade according to following table(if else ladder)
+  Marks Grade
+  100 - 80 Distinction
+  79 - 60 First Class
+  59 - 40 Second Class
+  < 40 Fail
 
