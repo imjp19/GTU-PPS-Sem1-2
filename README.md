@@ -28,4 +28,4 @@ Pf = 12.50% of basic, Gross = basic + Da + Hra + Ma, Nt = Gross – Pf.
 15. Write a C program to find out the Maximum and Minimum number from given 10 numbers.
 16. Write a C program to input an integer number and check the last digit of number is even or odd.
 17. Write a C program to find factorial of a given number.
-
+18. Write a program to reverse a number.
