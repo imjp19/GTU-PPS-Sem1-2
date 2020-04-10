@@ -7,7 +7,7 @@ int person,height,weight,count=0;;
 
 
 printf("---------------------------------------------------------------------------------\n");
-printf("PPS-20- five persons height and weight and count the number of person having \nheight greater than 170 and weight less than 50,)\n");
+printf("PPS-24- five persons height and weight and count the number of person having \nheight greater than 170 and weight less than 50,)\n");
 printf("---------------------------------------------------------------------------------\n");
 
 for(person=0;person<5;person++)
