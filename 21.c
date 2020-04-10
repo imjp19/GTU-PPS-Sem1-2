@@ -6,7 +6,7 @@ int no,sum=0,i=0,val;
 
 
 printf("---------------------------------------------------------------------------------\n");
-printf("PPS-20- to find the sum and average of different numbers which are accepted \nby user as many as user wants\n");
+printf("PPS-21- to find the sum and average of different numbers which are accepted \nby user as many as user wants\n");
 printf("---------------------------------------------------------------------------------\n");
 
 printf("\n How many nos you want to enter : ");
