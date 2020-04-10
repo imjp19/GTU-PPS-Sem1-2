@@ -34,3 +34,4 @@ Pf = 12.50% of basic, Gross = basic + Da + Hra + Ma, Nt = Gross – Pf.
 21. Write a C program to find the sum and average of different numbers which are accepted by user as many as user wants.
 22. Write a program to calculate average and total of 5 students for 3 subjects (use nested for loops).
 23. Read five persons height and weight and count the number of person having height greater than 170 and weight less than 50.
+24. Write a program to check whether the given number is prime or not.
