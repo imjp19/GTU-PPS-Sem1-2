@@ -1,4 +1,4 @@
-# GTU-PPS-Sem1
+# GTU-PPS-Sem1-2
 In this repo i have to done all experiment of subject PPS of sem-1 GTU.
 
 ## List of Experiments.
