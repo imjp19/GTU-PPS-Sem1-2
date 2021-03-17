@@ -1,7 +1,3 @@
----
-layout: slide
-title: Experiment list
----
 1. Write a program to that performs as calculator ( addition, multiplication, division,
 subtraction).
 2. Write a program to find area of triangle(a=h*b*.5)
